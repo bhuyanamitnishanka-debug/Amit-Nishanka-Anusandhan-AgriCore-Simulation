@@ -100,12 +100,12 @@ The architectural setup, technological infrastructure, and operational workflows
 *   **Immediate Core Prototyping Allocation:** The initial minimum viable development phase for software validation and miniature hardware models targets **₹10,00,000 to ₹20,00,000** to bridge functional tests through institutional innovation initiatives and specialized prototyping grants.
 *   **Commercial Scale-up Strategy:** Phase 1 through Phase 5 capital deployment is structured to execute without taking external debt or structural EMIs. Funding transitions will rely directly on upfront milestone research allocations, corporate coordination contracts, technology transfer (TOT) agreements, and long-term equity-free research grant integrations.
 
-# README.md
 
-# Amiy Nishanka Anusandhan: Subterranean AgriCore Simulation Platform
+
+# Amit Nishanka Anusandhan: Subterranean AgriCore Simulation Platform
 ### Project Validation, DPIIT Recognition, and Technology Transfer (TOT) Framework
 
-This repository serves as the official operational demo and technical documentation for **Amiy Nishanka Anusandhan**, an individual R&D innovation project registered on Startup India’s **BHASKAR platform**. The primary business model of this initiative is to independently design, program, and validate high-consequence technology assets, obtain institutional recognitions, and execute **Transfer of Technology (TOT)** packages to commercial industrial manufacturers.
+This repository serves as the official operational demo and technical documentation for **Amit Nishanka Anusandhan**, an individual R&D innovation project registered on Startup India’s **BHASKAR platform**. The primary business model of this initiative is to independently design, program, and validate high-consequence technology assets, obtain institutional recognitions, and execute **Transfer of Technology (TOT)** packages to commercial industrial manufacturers.
 
 ---
 
@@ -265,6 +265,6 @@ Yours Sincerely,
 
 Amit Nishanka Bhuyan
 Lead Researcher & Founder, CEO
-Amiy Nishanka Anusandhan
-Salipur, Odisha, Bharat
+Amit Nishanka Anusandhan
+Salepur, Kataka, Odisha, Bharat
 
